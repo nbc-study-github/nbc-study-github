@@ -12,6 +12,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // 회원가입 기능 구현 완
+        // main 구현 완 
     }
 }
 

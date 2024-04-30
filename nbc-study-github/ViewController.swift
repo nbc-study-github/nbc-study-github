@@ -10,9 +10,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        // 회원가입 기능 구현 완
     }
-
-
 }
 
